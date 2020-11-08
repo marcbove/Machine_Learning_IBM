@@ -1,5 +1,9 @@
 # Machine_Learning_IBM
-Final project for the IBM course "Machine Learning with Python: A Practical Introduction". <br>
+Final project for the IBM course "Machine Learning with Python: A Practical Introduction". 
+<br>
+The project was run on IBM Watson Studio (https://www.ibm.com/watson/studio)
+<br>
+<br>
 Course information:
 - Length: 5 Weeks
 - Effort: 4–6 hours per week
